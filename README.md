@@ -15,19 +15,33 @@ If you click on one of those hyperlinks (https://www.sec.gov/Archives/edgar/data
 Please take the scalability into consideration while developing this scraper as it should be able to extract multiple companies’ data a time. For this exercise, you do not need to scrap all filed on Form 4. Below is a list of companies with their CIK code and please feel free to include more companies if you like.  
 
 TSLA	1318605
+
 AAPL	320193
+
 NVDA	1045810
+
 AMZN	1018724
+
 MSFT	789019
+
 FB	1326801
+
 GOOGL	1652044
+
 MRNA	1682852
+
 UPST	1647639
+
 CRWD	1535527
+
 SOFI	1818874
+
 HOOD	1783879
+
 PYPL	1633917
+
 ABNB	1559720
+
 AMD	2488
 
 SEC website requires to include browser information while querying the data otherwise you might get “unauthorized access” error. You can use below headers for connection.
