@@ -44,7 +44,7 @@ ABNB	1559720
 
 AMD	2488
 
-SEC website requires to include browser information while querying the data otherwise you might get “unauthorized access” error. You can use below headers for connection.
+**SEC website requires to include browser information while querying the data otherwise you might get “unauthorized access” error. You can use below headers for connection.**
 { 'Connection': 'close',
          'Accept': 'application/json, text/javascript, */*; q=0.01', 'X-Requested-With': 'XMLHttpRequest',
          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
