@@ -4,7 +4,7 @@
 
 SEC Form 4 is used by officers, directors, and other corporate “insiders” to notify the U.S. Securities and Exchange Commission (SEC) of their personal transactions in their company's securities.  For this exercise, please write a small scraper to extract information from Form 4 on SEC site. 
 
-For instance, below link takes you to a SEC page of all filings by APPLE
+Below link takes you to a SEC page of all filings by APPLE
 
 https://www.sec.gov/Archives/edgar/data/320193/
 
